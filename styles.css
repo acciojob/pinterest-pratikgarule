@@ -4,15 +4,17 @@
 	gap:20px
 }
 img{
-	width:500px;
+	width:350px;
 	height:200px;
+	object-fit: cover;
 }
 .hero{
 	align-items: center;
 }
-.btn{
+a{
 	background-color:red;
 	color: white;
 	border:none;
-	padding:5px;
+	padding:2px;
+	length:1;
 }
